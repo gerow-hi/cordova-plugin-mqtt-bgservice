@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-mqtt-bgservice",
+  "version": "0.1.0",
+  "description": "Cordova MQTT Background Service Plugin",
+  "cordova": {
+    "id": "cordova-plugin-mqtt-bgservice",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smatronicx/cordova-plugin-mqtt-bgservice"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "mqtt"
+  ],
+  "homepage": "https://github.com/smatronicx/cordova-plugin-mqtt-bgservice",
+  "author": "Smatronicx",
+  "license": "MIT"
+}
